@@ -1,0 +1,23 @@
+{
+  "name": "common-js-library",
+  "version": "1.0.0",
+  "description": "common js library, from myst729",
+  "keywords": [
+    "utils",
+    "format",
+    "money",
+    "phone"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ICLanBing/common-js-library"
+  },
+  "bugs": "https://github.com/ICLanBing/common-js-library/issues",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LanBing",
+  "license": "ISC",
+  "dependencies": {}
+}
